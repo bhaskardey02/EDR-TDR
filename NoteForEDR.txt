@@ -1,0 +1,5 @@
+Before running the script :
+
+1) Make sure the "edr.csv" file and "EDR template" file are in the same directory as the script
+2) Replace the edr.csv with the file you want to convert and rename the EDR file to "edr.csv"
+3) You will get the output as 'EDR_final.xlsx' as output of the script

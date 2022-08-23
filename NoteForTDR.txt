@@ -1,0 +1,5 @@
+Before running the script :
+
+1) Make sure the "tdr.csv" file are in the same directory as the script
+2) Replace the tdr.csv with the file you want to convert and rename the TDR file to "tdr.csv"
+3) You will get the output as 'TDR_final.xlsx' as output of the script
